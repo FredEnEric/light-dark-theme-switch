@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/light-dark-theme-switch/static/js/runtime~main.099b2efe.js"
   },
   {
-    "revision": "85af36f3ccb69e6492be",
-    "url": "/light-dark-theme-switch/static/js/main.1f4c1cf7.chunk.js"
+    "revision": "a68ddce6c3fd2b8a08e9",
+    "url": "/light-dark-theme-switch/static/js/main.2996dc37.chunk.js"
   },
   {
     "revision": "28ea5fd279cb9735c0e3",
     "url": "/light-dark-theme-switch/static/js/2.92c92fef.chunk.js"
   },
   {
-    "revision": "85af36f3ccb69e6492be",
-    "url": "/light-dark-theme-switch/static/css/main.48632d3c.chunk.css"
+    "revision": "a68ddce6c3fd2b8a08e9",
+    "url": "/light-dark-theme-switch/static/css/main.d01368aa.chunk.css"
   },
   {
-    "revision": "b32bfa4b6fdc8bbc7484e94e57fa04b9",
+    "revision": "b67c6adea03a27bac371dac683451ce8",
     "url": "/light-dark-theme-switch/index.html"
   }
 ];

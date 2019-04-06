@@ -1,13 +1,13 @@
 {
-  "main.css": "/light-dark-theme-switch/static/css/main.48632d3c.chunk.css",
-  "main.js": "/light-dark-theme-switch/static/js/main.1f4c1cf7.chunk.js",
-  "main.js.map": "/light-dark-theme-switch/static/js/main.1f4c1cf7.chunk.js.map",
+  "main.css": "/light-dark-theme-switch/static/css/main.d01368aa.chunk.css",
+  "main.js": "/light-dark-theme-switch/static/js/main.2996dc37.chunk.js",
+  "main.js.map": "/light-dark-theme-switch/static/js/main.2996dc37.chunk.js.map",
   "runtime~main.js": "/light-dark-theme-switch/static/js/runtime~main.099b2efe.js",
   "runtime~main.js.map": "/light-dark-theme-switch/static/js/runtime~main.099b2efe.js.map",
   "static/js/2.92c92fef.chunk.js": "/light-dark-theme-switch/static/js/2.92c92fef.chunk.js",
   "static/js/2.92c92fef.chunk.js.map": "/light-dark-theme-switch/static/js/2.92c92fef.chunk.js.map",
   "index.html": "/light-dark-theme-switch/index.html",
-  "precache-manifest.3806e0fbada21cd702cba407a5365b17.js": "/light-dark-theme-switch/precache-manifest.3806e0fbada21cd702cba407a5365b17.js",
+  "precache-manifest.642509e71bb6876450396643576361c2.js": "/light-dark-theme-switch/precache-manifest.642509e71bb6876450396643576361c2.js",
   "service-worker.js": "/light-dark-theme-switch/service-worker.js",
-  "static/css/main.48632d3c.chunk.css.map": "/light-dark-theme-switch/static/css/main.48632d3c.chunk.css.map"
+  "static/css/main.d01368aa.chunk.css.map": "/light-dark-theme-switch/static/css/main.d01368aa.chunk.css.map"
 }

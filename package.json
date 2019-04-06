@@ -1,7 +1,8 @@
 {
-  "name": "light-dark-switcher",
-  "version": "0.1.0",
+  "name": "light-dark-theme-switch",
+  "version": "1.0.0",
   "private": true,
+  "homepage": "https://FredEnEric.github.io/light-dark-theme-switch",
   "dependencies": {
     "@types/jest": "24.0.11",
     "@types/node": "11.13.0",
@@ -15,13 +16,16 @@
     "typescript": "3.4.2"
   },
   "devDependencies": {
+    "gh-pages": "^2.0.1",
     "typescript-styled-plugin": "^0.14.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

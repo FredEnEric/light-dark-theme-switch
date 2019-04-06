@@ -16,6 +16,7 @@ const Button = styled.button`
   color: ${props => props.theme.color};
   font-weight: 600;
   font-size: 16px;
+  cursor: pointer;
 `;
 
 const Sheet = styled.div`

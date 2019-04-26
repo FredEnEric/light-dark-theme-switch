@@ -19,7 +19,7 @@ const Button = styled.button`
   cursor: pointer;
 `;
 
-const Sheet = styled.div`
+const Card = styled.div`
   border-top-left-radius: 20px;
   background: ${props => props.theme.accent};
   box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
@@ -38,12 +38,12 @@ const App: React.FunctionComponent = () => {
 
   return (
     <Container>
-      <Sheet>
+      <Card>
         <Header>{themeState.dark ? 'Dark' : 'Light'} mode example</Header>
         <Button onClick={themeState.toggle}>
           <span>Switch to {themeState.dark ? 'light' : 'dark'} theme</span>
         </Button>
-      </Sheet>
+      </Card>
     </Container>
   );
 };

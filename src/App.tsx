@@ -41,7 +41,7 @@ const App: React.FunctionComponent = () => {
       <Card>
         <Header>{themeState.dark ? 'Dark' : 'Light'} mode example</Header>
         <Button onClick={themeState.toggle}>
-          <span>Switch to {themeState.dark ? 'light' : 'dark'} theme</span>
+          <span>Switch to {themeState.dark ? 'light' : 'dark'} mode</span>
         </Button>
       </Card>
     </Container>
